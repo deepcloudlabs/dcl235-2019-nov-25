@@ -2,6 +2,11 @@ package com.example;
 
 import java.util.List;
 
+/**
+ * 
+ * @author Binnur Kurt <binnur.kurt@gmail.com>
+ *
+ */
 public class StudyIterator {
 
 	public static void main(String[] args) {

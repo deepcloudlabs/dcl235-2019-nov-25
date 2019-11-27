@@ -5,6 +5,11 @@ import java.util.Spliterator;
 import java.util.stream.Collectors;
 import java.util.stream.IntStream;
 
+/**
+ * 
+ * @author Binnur Kurt <binnur.kurt@gmail.com>
+ *
+ */
 public class StudySpliterator {
 
 	public static void main(String[] args) {
